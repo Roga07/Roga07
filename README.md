@@ -28,8 +28,6 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-
 #### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -37,24 +35,6 @@
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
-  
- </div>
 
 
 ### 🔗 &nbsp;Contactame

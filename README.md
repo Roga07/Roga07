@@ -1,7 +1,3 @@
-<div align="center">
-   <img width=100% src=https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1NTAyNjYsIm5iZiI6MTc0ODU0OTk2NiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDIwMTkyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNjMWZkMWY0ODY0MTNlNTBkZmJkMTRlMzE1YWQ4YTZlYjg3ZjViN2NlMDdlMzQ4ODc5ZDVlMTYyMTIxY2U0OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.IVLz9dQSbH4vY3WzhmzaxNEJj9JSJZCdwXe7XjXBYqI />
-</div>
-
 <h3 align="center">
   Hola, Soy Roberto Gamboa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">

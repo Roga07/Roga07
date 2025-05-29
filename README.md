@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![MYSQL](https://camo.githubusercontent.com/ff7190c7ef2b68f…f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+![MYSQL](https://img.shields.io/badge/ff7190c7ef2b68f…f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
 ![SELENIUM](https://camo.githubusercontent.com/4c823ba5865dc02…3656c656e69756d6c266c6f676f436f6c6f723d7768697465)
 
 
